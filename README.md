@@ -11,6 +11,7 @@ Salut ! Moi c'est Quentin, étudiant en première à Montpellier
 #### Logiciels que j'utilise : 
 [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,androidstudio)](https://skillicons.dev)
 
+# 
 
 Avec @Kaihto, nous avons réalisé deux projets à but éducatifs : 
 - [Maths-Quest](https://github.com/Gandalf0207/Maths-Quest) : Un jeu autour des mathématiques avec un apprentissage ludique, basé sur l'aléatoire des questions et des valeurs !
