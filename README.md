@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Salut ! Moi c'est Quentin, étudiant en première à Montpellier
+Salut ! Moi c'est Quentin, étudiant en terminale à Montpellier
 
 #### Langages que j'utilise : 
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,css)](https://skillicons.dev)
