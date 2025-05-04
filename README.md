@@ -5,9 +5,6 @@ Salut ! Moi c'est Quentin, étudiant en terminale à Montpellier
 #### Langages que j'utilise : 
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,css)](https://skillicons.dev)
 
-#### Langage(s) en cours d'apprentissage : 
-[![My Skills](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev)
-
 #### Logiciels que j'utilise : 
 [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,androidstudio)](https://skillicons.dev)
 
