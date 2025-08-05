@@ -6,7 +6,7 @@ Salut ! Moi c'est Quentin, étudiant en terminale à Montpellier
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,css)](https://skillicons.dev)
 
 #### Logiciels que j'utilise : 
-[![My Skills](https://skillicons.dev/icons?i=github,git,vscode,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,vscode)](https://skillicons.dev)
 
 # 
 
