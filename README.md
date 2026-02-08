@@ -81,7 +81,7 @@ En dehors du développement, je suis passionné par la **patisserie**, la **natu
 
 ## Projets
 
-### [BlackJack - SAE 1.01/1.02](https://github.com/Gandalf0207/BlackJack-SAE-1.02)
+### [BlackJack - SAE 1.01/1.02](https://github.com/Gandalf0207/BlackJack-SAE-1.01-1.02)
 Implémentation du célèbre jeu de cartes en Java avec interface graphique. Premier projet universitaire complet.
 
 ### Projets éducatifs (avec [@Kaihto](https://github.com/Kaihto))
