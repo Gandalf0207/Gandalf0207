@@ -3,7 +3,7 @@
 Salut ! Moi c'est Quentin, étudiant en première année à l'IUT informatique de Montpellier.
 
 #### Langages que j'utilise : 
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,java,c)](https://skillicons.dev)
 
 #### Logiciels que j'utilise : 
 [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,idea)](https://skillicons.dev)
