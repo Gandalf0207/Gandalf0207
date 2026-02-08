@@ -103,14 +103,14 @@ Exerciceur avec corrections détaillées - Lauréat NSI 2024
 <td width="33%">
 
 **[PyMathsQuest](https://github.com/Gandalf0207/PyMathsQuest)**
-Fusion des projets précédents - Lauréat NSI 2024
+Fusion des projets précédents - Lauréat NSI 2025
 
 </td>
 </tr>
 </table>
 
-### Code Game Jam
-- **[Fate Of The Clics](https://gandalf0207.itch.io/)** - Jeu 2D Unity (Nuit de l'Info 2024)
+### Game Jam
+- **[Fate Of The Clics](https://gandalf0207.itch.io/)** - Jeu 2D Unity (Code Game Jam 2026)
 - Plus de projets sur mon [itch.io](https://gandalf0207.itch.io/)
 
 <br>
