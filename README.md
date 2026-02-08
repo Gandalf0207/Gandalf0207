@@ -18,7 +18,7 @@ Je suis étudiant en **première année de BUT Informatique à l'IUT de Montpell
 
 De **Hollow Knight** à **Minecraft** en passant par **LOL**, les jeux qui m'ont marqué et qui me motive à créer des mondes riches, offrir de la liberté au joueur, toujours proposer une aventure divertissante.
 
-En dehors du développement, je suis passionné par la **patisserie**, la **la nature** : des environnements calmes et inspirants pour la création
+En dehors du développement, je suis passionné par la **patisserie**, la **nature** : des environnements calmes et inspirants pour la création
 
 > **Actuellement en recherche d'alternance** pour mes 2e et 3e années de BUT (game dev / programmation gameplay)
 
