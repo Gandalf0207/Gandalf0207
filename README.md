@@ -27,61 +27,31 @@ En dehors du développement, je suis passionné par la **patisserie**, la **natu
 ## Stack technique
 
 ### Langages de programmation
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### Outils de Dev & Programmation
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 ### Bases de données & IDE
-![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
 
 <br>
-
-## Récompenses
-
-<table>
-<tr>
-<td width="50%">
-
-### Trophées NSI
-**Prix Meilleur Projet Académique 2025**
-- Projet : [PyMathsQuest](https://github.com/Gandalf0207/PyMathsQuest)
-- Combinaison ludique d'apprentissage mathématique
-
-**Prix Originalité Territoriale 2024**
-- Projet : [Py-Maths](https://github.com/Gandalf0207/Py-Maths)
-- Exerciceur de maths avec corrections détaillées
-
-</td>
-<td width="50%">
-
-### Code Game Jam 2026
-**6e place nationale** (sur ~90 équipes) \
-**3e place à Montpellier**
-- Jeu : [Fate Of The Clics](https://gandalf0207.itch.io/)
-- Développement Unity 2D en temps limité
-- Game Jam collaborative
-
-</td>
-</tr>
-</table>
-
 
 
 ## Projets
 
 ### [BlackJack - SAE 1.01/1.02](https://github.com/Gandalf0207/BlackJack-SAE-1.01-1.02)
-Implémentation du célèbre jeu de cartes en Java avec interface graphique. Premier projet universitaire complet.
+Implémentation du célèbre jeu de cartes en Java dans le terminal. Premier projet en Java de première année
 
 ### Projets éducatifs (avec [@Kaihto](https://github.com/Kaihto))
 
@@ -109,19 +79,4 @@ Fusion des projets précédents - Lauréat NSI 2025
 </table>
 
 ### Game Jam
-- **[Fate Of The Clics](https://gandalf0207.itch.io/)** - Jeu 2D Unity (Code Game Jam 2026)
-- Plus de projets sur mon [itch.io](https://gandalf0207.itch.io/)
-
-<br>
-
-##  Alternance
-
-**Recherche active d'alternance** pour septembre 2026 (2e année BUT)
-- Domaine : Game development, programmation gameplay, level design, développement d'application
-- Durée : 2 ans (BUT 2 & 3)
-- Localisation : Flexible
-
-📫 **Me contacter** :
-- [LinkedIn](https://www.linkedin.com/in/quentin-pladeau)
-- [eMail](mailto:quentin.pladeau@gmail.com)
-
+- **[Fate Of The Clics](https://gandalf0207.itch.io/)** - Jeu 2D Unity (Code Game Jam 2026) - Lauréat (6e global | 3e Montpelliérain)
