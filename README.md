@@ -16,7 +16,7 @@
 Je suis étudiant en **première année de BUT Informatique à l'IUT de Montpellier** (parcours IAMSI ou RACDV). Passionné par le développement de jeux vidéo
 
 
-De **Hollow Knight** à **Minecraft** en passant par **LOL**, les jeux qui m'ont marqué et qui me motive à créer des mondes riches, offrir de la liberté au joueur, toujours proposer une aventure divertissante.
+De **Hollow Knight** à **Minecraft** en passant par **LOL** et ** Clair Obscur**, les jeux qui m'ont marqué et qui me motive à créer des mondes riches, offrir de la liberté au joueur, toujours proposer une aventure divertissante.
 
 En dehors du développement, je suis passionné par la **patisserie**, la **nature** : des environnements calmes et inspirants pour la création
 
