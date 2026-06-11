@@ -16,7 +16,7 @@
 Je suis étudiant en **première année de BUT Informatique à l'IUT de Montpellier**, parcours IAMSI. Passionné par le développement de jeux vidéo
 
 
-De **Hollow Knight** à **Minecraft** en passant par **LOL** et ** Clair Obscur**, les jeux qui m'ont marqué et qui me motive à créer des mondes riches, offrir de la liberté au joueur, toujours proposer une aventure divertissante.
+De **Hollow Knight** à **Minecraft** en passant par **LOL** et **Clair Obscur**, les jeux qui m'ont marqué et qui me motive à créer des mondes riches, offrir de la liberté au joueur, toujours proposer une aventure divertissante.
 
 En dehors du développement, je suis passionné par la **patisserie**, la **nature** : des environnements calmes et inspirants pour la création
 
@@ -48,8 +48,26 @@ En dehors du développement, je suis passionné par la **patisserie**, la **natu
 
 ## Projets
 
-### [BlackJack - SAE 1.01/1.02](https://github.com/Gandalf0207/BlackJack-SAE-1.01-1.02)
+<table>
+<tr>
+<td width="50%">
+
+#### **[BlackJack - SAE 1.01/1.02](https://github.com/Gandalf0207/BlackJack-SAE-1.01-1.02)**
+
 Implémentation du célèbre jeu de cartes en Java dans le terminal. Premier projet en Java de première année
+
+</td>  
+<td width="50%">
+
+#### **[SAE-2.01-DominionProject](https://github.com/Gandalf0207/SAE-2.01-DominionProject)**
+
+
+Création de la logique du jeu Dominion en java (POO) et implémentation de l'interface graphique (IHM)
+
+</td>  
+</tr>
+</table>
+
 
 ### Projets éducatifs (avec [@Kaihto](https://github.com/Kaihto))
 
