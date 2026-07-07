@@ -95,4 +95,5 @@ Fusion des projets précédents - Lauréat NSI 2025
 </table>
 
 ### Game Jam
-- **[Fate Of The Clics](https://gandalf0207.itch.io/)** - Jeu 2D Unity (Code Game Jam 2026) - Lauréat (6e global | 3e Montpelliérain)
+- **[Fate Of The Clics](https://gandalf0207.itch.io/fate-of-the-click)** - Jeu 2D Unity (Code Game Jam 2026) - Lauréat (6e global | 3e Montpelliérain)
+- **[Crystal Cave](https://gandalf0207.itch.io/crystal-cave)** - Jeu 2D Unity (Crazy Game Jam 2026)
