@@ -5,6 +5,7 @@
 ### 🎮 Développeur de jeux vidéo passionné | Étudiant BUT Informatique
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quentin-pladeau)
+[![Website](https://img.shields.io/badge/Website-6827F5?style=for-the-badge&logo=Website&logoColor=white)](https://www.linkedin.com/in/quentin-pladeau)
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://gandalf0207.itch.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gandalf0207)
 
@@ -13,12 +14,9 @@
 
 ## À propos de moi
 
-Je suis étudiant en **première année de BUT Informatique à l'IUT de Montpellier**, parcours IAMSI. Passionné par le développement de jeux vidéo
-
+Je suis étudiant en **deuxième année de BUT Informatique à l'IUT de Montpellier**, parcours IAMSI. Passionné par le développement de jeux vidéo
 
 De **Hollow Knight** à **Minecraft** en passant par **LOL** et **Clair Obscur**, les jeux qui m'ont marqué et qui me motive à créer des mondes riches, offrir de la liberté au joueur, toujours proposer une aventure divertissante.
-
-En dehors du développement, je suis passionné par la **patisserie**, la **nature** : des environnements calmes et inspirants pour la création
 
 > **Actuellement en recherche d'alternance** pour mes 2e et 3e années de BUT (game dev / programmation gameplay)
 
